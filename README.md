@@ -34,17 +34,17 @@ To perform a wall jump:
 
 - **Built-In UI**: Displays elapsed time and coin count for progress tracking.
 
-## 📷 Screenshots
+## Screenshots
 
 ![Alt text](Screenshots/titleScreenSection.png)
 ![Alt text](Screenshots/beginLevelSection.png)
 ![Alt text](Screenshots/midLevelSection.png)
 ![Alt text](Screenshots/wallJumpSection.png)
 ![Alt text](Screenshots/cloudSection.png)
-![Alt text](Screenshots/levelEnd)
+![Alt text](Screenshots/levelEnd.png)
 ![Alt text](Screenshots/levelComplete.png)
 
-## 🧾 Credits
+## Credits
 
 - **Tilemap**: [Spriters Resource - Mario Custom Tileset](https://www.spriters-resource.com/custom_edited/mariocustoms/sheet/64266/)
 - **Mario Sprite Sheet**: [DeviantArt - SMBHotS Mario Sprite Sheet by KratosGoji91](https://www.deviantart.com/kratosgoji91/art/SMBHotS-Mario-Sprite-Sheet-FINAL-VERSION-900005442)
